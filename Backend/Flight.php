@@ -12,7 +12,6 @@ class Flight{
         $attalums = $this->getDistance();
         $atrums = $this->aircraft->atrums;
 
-        $laiks = 
     }
 
 
